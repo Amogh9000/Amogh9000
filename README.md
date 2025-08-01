@@ -11,12 +11,17 @@ I love experimenting with data, solving real-world problems, and building cool p
 ---
 
 ## 🛠️ Skills & Toolbox
-- **Python** – for automation and ML  
-- **Pandas**, **scikit-learn** – for data wrangling & modeling  
-- **Streamlit** – for fast, interactive web apps  
-- **MySQL** – for structured data storage  
-- **Tableau** – for quick, clear visual insights  
-- Always eager to learn new tools that help me build better things 🚀
+
+- **Languages:** Python, C, SQL, HTML5, CSS3, Markdown
+- **Frameworks & Tools:** Flask, Streamlit
+- **Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
+- **Databases:** MySQL, SQLite
+- **Data Visualization:** Tableau, Seaborn, Plotly
+- **Dev Tools & Environments:** Jupyter, VS Code, PyCharm, Google Colab
+- **Currently Exploring:** ML pipelines, model deployment, cloud ML (Google Cloud & Vertex AI)
+
+Always eager to learn new tools that help me build better, faster, and smarter! 🚀
+
 
 ---
 
@@ -35,11 +40,9 @@ I love experimenting with data, solving real-world problems, and building cool p
 ---
 
 ##  Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/amogh-m-866323355/)  
-Always open to:
-- Tech conversations  
-- Collaboration  
-- Feedback
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-m-866323355/)  
+Feel free to reach out for:  
+👥 Collaborations • 💡 Brainstorming • 🛠️ Code Reviews • 📢 Feedback
 
 ---
 
