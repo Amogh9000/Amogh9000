@@ -1,4 +1,4 @@
-
+<img src="banner.png" alt="Amogh's Banner" width="100%" />
 # Hi, I'm Amogh!   
 Welcome to my GitHub space!
 
