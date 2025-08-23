@@ -16,7 +16,7 @@ I love experimenting with data, solving real-world problems, and building cool p
 - **Languages:** Python, C, SQL, HTML5, CSS3, Markdown
 - **Frameworks & Tools:** Flask, Streamlit
 - **Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL,SSMS
 - **Data Visualization:** Tableau, Seaborn, Plotly
 - **Dev Tools & Environments:** Jupyter, VS Code, PyCharm, Google Colab
 - **Currently Exploring:** ML pipelines, model deployment, cloud ML (Google Cloud & Vertex AI)
