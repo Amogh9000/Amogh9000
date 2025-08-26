@@ -31,7 +31,7 @@ Always eager to learn new tools that help me build better, faster, and smarter!
 ### [ Salary Predictor App](https://github.com/Amogh9000/salarypred)
 > Predict salaries instantly using a simple ML web app with model comparison dashboards.
 
-### [Credifi - AI-Powered Decentralized Lending Platform](https://github.com/Amogh9000/credifi)
+### [CrediFi - AI-Powered Decentralized Lending Platform](https://github.com/Amogh9000/credifi)
 > AI-powered decentralized lending platform that combines machine learning with blockchain technology to provide instant, transparent, and fair loan assessments.
 ---
 
