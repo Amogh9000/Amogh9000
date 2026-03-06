@@ -27,12 +27,17 @@ Always eager to learn new tools that help me build better, faster, and smarter!
 ---
 
 ##  Recent Projects
+### [GridSentinel - Edge-AI system for real-time electricity feeder monitoring and early detection of power theft and grid anomalies.](https://github.com/Amogh9000/GridSentinel)
+> AI-powered hospital operations cockpit for predicting demand, optimizing resources, and enabling real-time operational decisions.
 
 ### [PaperLens – Scalable high-precision OMR evaluation system](https://github.com/Amogh9000/PaperLens)
 > PaperLens is a smart, scalable solution that automates OMR exam sheet evaluation with speed and precision, helping institutions cut errors, save time, and deliver instant results.
 
 ### [CrediFi - AI-Powered Decentralized Lending Platform](https://github.com/Amogh9000/credifi)
 > AI-powered decentralized lending platform that combines machine learning with blockchain technology to provide instant, transparent, and fair loan assessments.
+
+### [Pulse_v2 - Agentic AI–powered hospital operations cockpit](https://github.com/Amogh9000/pulse_v2)
+> AI-powered hospital operations cockpit for predicting demand, optimizing resources, and enabling real-time operational decisions.
 
 ### [ Salary Predictor App](https://github.com/Amogh9000/salarypred)
 > Predict salaries instantly using a simple ML web app with model comparison dashboards.
