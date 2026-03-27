@@ -28,7 +28,7 @@ Always eager to learn new tools that help me build better, faster, and smarter!
 
 ##  Recent Projects
 ### [GridSentinel - Edge-AI system for real-time electricity feeder monitoring and early detection of power theft and grid anomalies.](https://github.com/Amogh9000/GridSentinel)
-> AI-powered hospital operations cockpit for predicting demand, optimizing resources, and enabling real-time operational decisions.
+
 
 ### [PaperLens – Scalable high-precision OMR evaluation system](https://github.com/Amogh9000/PaperLens)
 > PaperLens is a smart, scalable solution that automates OMR exam sheet evaluation with speed and precision, helping institutions cut errors, save time, and deliver instant results.
