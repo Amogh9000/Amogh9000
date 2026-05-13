@@ -1,17 +1,25 @@
-<img src="banner.png" alt="Amogh's Banner" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amogh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20%7C%20Samsung%20RD%20Research%20Intern&descAlignY=55&descSize=16" />
+</p>
 
-## Hi, I'm Amogh! 
-Welcome to my GitHub space!
+<p align="center">
+  <a href="https://www.linkedin.com/in/amogh-m-866323355/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amogh9000" />
+</p>
 
 ---
 
-##  Who Am I?
-Currently a 3rd-year student passionate about AI, Data Science, and building ML models in Python.
-I love experimenting with data, solving real-world problems, and building cool projects that actually work.
+## Who Am I?
+
+3rd-year AI & Data Science student at BMSCE, Bangalore.
+Currently a **Research Intern at Samsung R&D Institute India**, working on deep learning for audio event detection.
+
+I build production-grade AI systems — from agentic LLM pipelines to real-time anomaly detection — and I care about making them actually work in the real world.
 
 ---
-
-## Skills
 
 ## 🛠️ Skills
 
@@ -26,36 +34,30 @@ I love experimenting with data, solving real-world problems, and building cool p
 
 ---
 
-##  Recent Projects
-### [GridSentinel - Edge-AI system for real-time electricity feeder monitoring and early detection of power theft and grid anomalies.](https://github.com/Amogh9000/GridSentinel)
-> GridSentinel is an edge-AI system that continuously monitors electricity feeders to detect power theft and grid anomalies early
+## 🚀 Featured Projects
 
-### [PaperLens – Scalable high-precision OMR evaluation system](https://github.com/Amogh9000/PaperLens)
-> PaperLens is a smart, scalable solution that automates OMR exam sheet evaluation with speed and precision, helping institutions cut errors, save time, and deliver instant results.
+### [GridSentinel](https://github.com/Amogh9000/GridSentinel) — Real-time power grid anomaly detection
+> Edge-AI dashboard for BESCOM Bangalore with CUSUM-based anomaly detection, 3D globe visualization, and WebSocket alerts.
 
-### [CrediFi - AI-Powered Decentralized Lending Platform](https://github.com/Amogh9000/credifi)
-> AI-powered decentralized lending platform that combines machine learning with blockchain technology to provide instant, transparent, and fair loan assessments.
+### [Pulse v2](https://github.com/Amogh9000/pulse_v2) — Agentic AI hospital operations cockpit
+> Multi-agent LLM system for hospital surge prediction and resource planning with FastAPI backend and Digital Twin simulations.
 
-### [Pulse_v2 - Agentic AI–powered hospital operations cockpit](https://github.com/Amogh9000/pulse_v2)
-> AI-powered hospital operations cockpit for predicting demand, optimizing resources, and enabling real-time operational decisions.
+### [CrediFi](https://github.com/Amogh9000/credifi) — AI-powered decentralized lending
+> XGBoost credit risk model with SHAP explainability integrated with Solidity smart contracts. 1st place at AiDeate Hackathon.
 
-### [ Salary Predictor App](https://github.com/Amogh9000/salarypred)
-> Predict salaries instantly using a simple ML web app with model comparison dashboards.
+### [PaperLens](https://github.com/Amogh9000/PaperLens) — Scalable OMR evaluation system
+> Automated OMR exam sheet evaluation with high precision for educational institutions.
 
 ---
 
-##  Learning & Growth
-- Continuously exploring smarter ways to solve problems using **AI & ML**
-- Improving data pipelines, model accuracy, and UI clarity
-- Building projects that are as useful as they are functional
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-m-866323355/)
+
+Collaborations • Brainstorming • Code Reviews • Feedback
 
 ---
 
-##  Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-m-866323355/)  
-Feel free to reach out for:  
- Collaborations •  Brainstorming •  Code Reviews •  Feedback
-
----
-
-> 🧩 *Here to create, not just code. Always learning. Always shipping.* 🚢
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
