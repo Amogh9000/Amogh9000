@@ -14,9 +14,9 @@ I love experimenting with data, solving real-world problems, and building cool p
 ## Skills
 
 **Core:** Python, SQL, R, C  
-**ML & Data:** Deep Learning, Machine Learning,  Tensorflow with keras, Pandas, NumPy, scikit-learn, Prompt Engineering, Agentic Workflows, RAG 
-**Visualization:** Tableau, Plotly  
-**Frameworks:** Flask, Streamlit  
+**ML & Data:** eep Learning, Machine Learning, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, XGBoost, Prompt Engineering, Agentic Workflows, RAG, Audio ML 
+**Visualization:** TTableau, Plotly, Power BI
+**Frameworks:**: FastAPI, Flask, Streamlit
 **Tools:** VS Code, Jupyter, Git  
 
 ---
