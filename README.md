@@ -36,9 +36,6 @@ I build production-grade AI systems — from agentic LLM pipelines to real-time 
 
 ## 🚀 Featured Projects
 
-### [GridSentinel](https://github.com/Amogh9000/GridSentinel) — Real-time power grid anomaly detection
-> Edge-AI dashboard for BESCOM Bangalore with CUSUM-based anomaly detection, 3D globe visualization, and WebSocket alerts.
-
 ### [Pulse v2](https://github.com/Amogh9000/pulse_v2) — Agentic AI hospital operations cockpit
 > Multi-agent LLM system for hospital surge prediction and resource planning with FastAPI backend and Digital Twin simulations.
 
