@@ -17,12 +17,11 @@
 </p>
 
 ---
-
 ### <img src="https://api.iconify.design/lucide:user-check.svg?color=%2358a6ff" width="22" height="22" align="center" /> About Me
 
-AI & Data Science undergraduate at **B.M.S. College of Engineering, Bangalore** (2023–2027) and Applied ML Researcher.
+AI & Data Science Undergraduate.
 
-* <img src="https://api.iconify.design/lucide:microscope.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Research Intern @ Samsung PRISM (Samsung R&D Institute India)**: Built edge audio classification systems using knowledge distillation (Transformer $\rightarrow$ CNN) and INT8 quantization (85% footprint reduction to 2.8MB).
+* <img src="https://api.iconify.design/lucide:microscope.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Former Research Intern @ Samsung PRISM**: Built edge audio classification systems using knowledge distillation (Transformer $\rightarrow$ CNN) and INT8 quantization (85% footprint reduction to 2.8MB).
 * <img src="https://api.iconify.design/lucide:zap.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Specialization**: Edge Deep Learning, Generative AI Pipelines (RAG & Agentic AI), Signal Processing, and Model Optimization.
 * <img src="https://api.iconify.design/lucide:trophy.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Achievement**: 1st Place Winner at **AiDeate Hackathon**.
 
