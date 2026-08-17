@@ -48,43 +48,12 @@ AI & Data Science Undergraduate.
 ---
 
 ### <img src="https://api.iconify.design/lucide:award.svg?color=%2358a6ff" width="22" height="22" align="center" /> Certifications & Achievements
-
-<table>
-  <tr>
-    <td align="center" width="180"><img src="https://raw.githubusercontent.com/Amogh9000/Amogh9000/main/assets/certs/oracle-genai-pro.jpg" width="150"/></td>
-    <td align="center" width="180"><img src="https://raw.githubusercontent.com/Amogh9000/Amogh9000/main/assets/certs/oracle-ai-foundations.jpg" width="150"/></td>
-    <td align="center" width="180"><img src="https://raw.githubusercontent.com/Amogh9000/Amogh9000/main/assets/certs/datacamp-associate.png" width="150"/></td>
-    <td align="center" width="180"><img src="https://raw.githubusercontent.com/Amogh9000/Amogh9000/main/assets/certs/ibm-ai-fundamentals.png" width="150"/></td>
-    <td align="center" width="180"><img src="https://raw.githubusercontent.com/Amogh9000/Amogh9000/main/assets/certs/coursera-tensorflow.png" width="150"/></td>
-  </tr>
-  <tr>
-    <td align="center">
-      🗓️ 2025<br/>
-      🔗 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B4A4A3E1E21FE3643D03AD742F21EFB4C06F16BD6277FD69D4148C8CC6423579"><b>OCI Generative AI Professional</b></a><br/>
-      <i>Validates OCI GenAI services, LLM deployment, and RAG practices.</i>
-    </td>
-    <td align="center">
-      🗓️ 2025<br/>
-      🔗 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE892E99C4D57A35338A0AB85DCCE83CAB65C56FA41A8CEC0CF4031862F3D5D0"><b>OCI AI Foundations Associate</b></a><br/>
-      <i>Core OCI AI/ML services and foundational concepts.</i>
-    </td>
-    <td align="center">
-      🗓️ 2025<br/>
-      🔗 <a href="https://www.datacamp.com/certificate/DAA0012177190196"><b>Associate Data Analyst</b></a><br/>
-      <i>Data analysis, visualization, and SQL fundamentals.</i>
-    </td>
-    <td align="center">
-      🗓️ 2025<br/>
-      🔗 <a href="https://www.credly.com/badges/24c0af5b-5268-4449-a7fe-b54f9473602a/public_url"><b>AI Fundamentals — IBM SkillsBuild</b></a><br/>
-      <i>Intro to AI concepts, ML, neural nets, and AI ethics.</i>
-    </td>
-    <td align="center">
-      🗓️ 2026<br/>
-      🔗 <a href="https://coursera.org/verify/5FQCBUGOM3PI"><b>Intro to TensorFlow — DeepLearning.AI</b></a><br/>
-      <i>TensorFlow for AI, ML, and deep learning.</i>
-    </td>
-  </tr>
-</table>
+* <img src="https://api.iconify.design/lucide:award.svg?color=%23e3b341" width="16" height="16" align="center" /> **1st Place Winner** — AiDeate Hackathon *(Credit Risk Assessment Platform)*
+* <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Oracle Certified Generative AI Professional** (OCI 2025)
+* <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Oracle Certified AI Foundations Associate** (OCI 2025)
+* <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Associate Data Analyst** — DataCamp
+* <img src="https://api.iconify.design/lucide:brain.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Introduction to TensorFlow for AI/ML/DL** — Coursera
+* <img src="https://api.iconify.design/lucide:globe.svg?color=%2358a6ff" width="16" height="16" align="center" /> **Artificial Intelligence Fundamentals** — IBM SkillsBuild
 
 ---
 
